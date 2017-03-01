@@ -1,0 +1,17 @@
+title: Michal Musialik
+email: michal@michalmusialik.com
+description: >
+  Writing about my programming journey.
+baseurl: ""
+url: "https://michalmusialik.com"
+twitter_username: muspl
+github_username:  musialik
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+permalink: /:title
