@@ -1,10 +1,9 @@
 title: Michal Musialik
 email: michal@michalmusialik.com
 description: >
-  Writing about my programming journey.
+  Writing about code.
 baseurl: ""
 url: "https://michalmusialik.com"
-twitter_username: muspl
 github_username:  musialik
 
 # Build settings
