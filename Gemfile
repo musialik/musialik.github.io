@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
-ruby '2.3.3'
+ruby '2.5.3'
 
-gem 'jekyll', '3.3.1'
+gem 'jekyll', '~> 3.7.4'
 
 group :jekyll_plugins do
-  gem 'github-pages'
-  gem 'jekyll-feed', '~> 0.8'
+  gem 'github-pages', '~> 193'
+  gem 'jekyll-feed', '~> 0.11.0'
 end

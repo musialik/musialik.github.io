@@ -4,11 +4,11 @@ description: >
   Writing about code.
 baseurl: ""
 url: "https://michalmusialik.com"
-github_username:  musialik
+github_username: musialik
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
